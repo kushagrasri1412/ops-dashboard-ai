@@ -1,0 +1,24 @@
+{"id":"tc01","prompt_version":"v1","query":"Summarize revenue health for the last 30 days and the next 7-day outlook."}
+{"id":"tc02","prompt_version":"v1","query":"Why did revenue dip last week? Give key drivers and actions."}
+{"id":"tc03","prompt_version":"v1","query":"Call out the biggest anomaly day and what likely happened operationally (only using the provided data)."}
+{"id":"tc04","prompt_version":"v1","query":"Which actions should we take today to prevent forecasted decline?"}
+{"id":"tc05","prompt_version":"v1","query":"Draft an ops checklist to investigate a sudden revenue spike day."}
+{"id":"tc06","prompt_version":"v1","query":"Explain whether the week-over-week trend is improving and how confident you are."}
+{"id":"tc07","prompt_version":"v2","query":"Give a short summary of the main drivers and next actions."}
+{"id":"tc08","prompt_version":"v2","query":"Create a prioritised action plan to address any detected revenue drops."}
+{"id":"tc09","prompt_version":"v2","query":"If there are anomalies, propose actions for DoorDash/Uber Eats/Website teams."}
+{"id":"tc10","prompt_version":"v2","query":"Is the 7-day forecast above or below the most recent day? What should we do?"}
+{"id":"tc11","prompt_version":"v2","query":"Give me 3 actions with owners embedded in the action text."}
+{"id":"tc12","prompt_version":"v1","query":"What data points most strongly support your conclusion?"}
+{"id":"tc13","prompt_version":"v1","query":"If you are missing information, explicitly say what is missing and provide safe next steps."}
+{"id":"tc14","prompt_version":"v1","query":"Are we experiencing operational risk right now?"}
+{"id":"tc15","prompt_version":"v1","query":"Which anomaly is most concerning and why?"}
+{"id":"tc16","prompt_version":"v1","query":"Provide 4 recommended actions with reasons and priorities."}
+{"id":"tc17","prompt_version":"v2","query":"Give a concise action plan to improve on-time pickup and protect revenue."}
+{"id":"tc18","prompt_version":"v2","query":"Explain the likely causes of an outage that would create a revenue dip, without inventing facts."}
+{"id":"tc19","prompt_version":"v1","query":"Create a playbook for a revenue drop day: triage, diagnosis, remediation."}
+{"id":"tc20","prompt_version":"v2","query":"Tell me what to monitor in the next 24 hours based on forecast + anomalies."}
+{"id":"tc21","prompt_version":"v1","query":"What should the marketing owner do this week?"}
+{"id":"tc22","prompt_version":"v2","query":"Give 3 actions to validate channel integrations and menu sync."}
+{"id":"tc23","prompt_version":"v1","query":"If I asked you to explain store-level drivers, what prevents you from doing that using the data you have?"}
+{"id":"tc24","prompt_version":"v2","query":"Provide an action plan with low/medium/high priorities and cite at least 3 data points."}
